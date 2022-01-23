@@ -1,0 +1,11 @@
+rustup update
+rustc hello.rs (compile a file)
+./hello.rs (run the compiled file)
+cargo (package manager)
+cargo new hello (create a new project in a folder called hello)
+cargo init (create project in the folder you are in)
+cargo build (complile without running)
+cargo run (will both compile and run your code adding a target folder with 
+debug folder, the binary is located at ./target/debug/{project name})
+cargo build --release (compile for production/deplyment, will add a release folder 
+into your target folder with production binary inside)

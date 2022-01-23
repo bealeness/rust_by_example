@@ -1,0 +1,8 @@
+fn = function
+pub = public (similar to export, so that the file can be accessed from
+outside the file)
+mod = module (similar to import, to pull an outside file in)
+:: = path separator
+"{}" = curly braces here are a placeholder
+"{}", 1 = the character after the placeholder and comma will fill the 
+placeholder
