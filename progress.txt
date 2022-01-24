@@ -1,1 +1,1 @@
-rust crash course video = 19min 34sec
+rust crash course video = 25min 24sec
