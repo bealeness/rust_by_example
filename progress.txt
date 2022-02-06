@@ -1,1 +1,1 @@
-rust crash course video = 1 hr 38min 03sec
+start on crust of rust: functions, closures and their traits video
